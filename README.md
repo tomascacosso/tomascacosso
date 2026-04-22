@@ -41,4 +41,4 @@ When I'm not automating infrastructure, I'm watching or training **MMA**.
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://your-linkedin-url](https://www.linkedin.com/in/tomascacosso/))
